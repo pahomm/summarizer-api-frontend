@@ -1,6 +1,6 @@
 # AI Text Summarizer (Frontend)
 
-![AI Summarizer Screenshot](./docs/screenshot.png)
+![AI Summarizer Screenshot](./docs/Screenshot.PNG)
 
 Это пользовательский интерфейс для сервиса по сокращению текста. Приложение написано на React и TypeScript и обращается к бэкенду для выполнения суммаризации.
 
