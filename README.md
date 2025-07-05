@@ -6,7 +6,7 @@
 
 ### Демо
 
-*   **Интерфейс (Vercel):** `[ССЫЛКА БУДЕТ ЗДЕСЬ ПОСЛЕ ДЕПЛОЯ]`
+*   **Интерфейс (Vercel):** [https://summarizer-api-frontend.vercel.app/](https://summarizer-api-frontend.vercel.app/)
 *   **API (Hugging Face):** [https://huggingface.co/spaces/pahomm2116/summarizer-api/](https://huggingface.co/spaces/pahomm2116/summarizer-api/)
 
 ### Технологии
